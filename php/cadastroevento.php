@@ -20,11 +20,11 @@
 
 	<label for="modalidade" >Esse curso será ministrado de qual forma: </label>
 
-		<input type="radio" name="modalidade" id="presencial" value="presencial" onclick="pre()">Presencial
+		<input type="radio" name="modalidade" id="presencial" value="presencial" onclick="pre()"> Presencial
 
-		<input type="radio" name="modalidade" id="online" value="online" onclick="on()">Online
+		<input type="radio" name="modalidade" id="online" value="online" onclick="on()"> Online
 		
-		<input type="radio" name="modalidade" id="semipresencial" value="semipresencial" onclick="semi()">Semipresencial
+		<input type="radio" name="modalidade" id="semipresencial" value="semipresencial" onclick="semi()"> Semipresencial
 
 
 

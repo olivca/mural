@@ -1,3 +1,4 @@
+<?php include_once('./../inserts/head.php');?>
 <!DOCTYPE html>
 <html lang="PT-BR">
     <head>
@@ -10,8 +11,8 @@
         <script src="./bootstrap-4.5.3-dist/js/bootstrap.min.js"></script>
     </head>
     <body>
-        <div class="container">
-            <div class="col-md-5 mt-5 jumbotron bg-second">
+        <div class="container-fluid">
+            <div class="col-md-5 mx-auto jumbotron bg-second">
                 <h2>Seja Bem-vindo, Faça Aqui seu Cadastro</h2>
                 <hr>
 
@@ -58,3 +59,4 @@
         </div>
     </body>
 </html>
+<?php include_once('./../inserts/footer.php');?>
