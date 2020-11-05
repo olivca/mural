@@ -54,7 +54,7 @@
 
         if($res){
             echo "Dados inseridos com sucesso!";
-            header('refresh: 3 ; ../php/cadastroevento.php');
+            header('refresh: 3 ; ../teste/inserco.php');
         } else {
             echo "Erro no envio de dados";
         }
