@@ -2,7 +2,7 @@
 <body>
     <!--Menu principal-->
     <nav class="navbar navbar-expand-md navbar-dark" style="background-color: #504456">
-        <a class="navbar-brand" href="index.php">
+        <a class="navbar-brand" href="../index.php">
             <img src="../imagens/logo.png" id= "logo" width="50" class="img-thumbnail rounded"  alt="Responsive image" >
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"   aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
