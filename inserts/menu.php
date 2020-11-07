@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Quem Somos</a>
+                    <a class="nav-link" href="index.php">Quem Somos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="./eventos.php">Eventos</a>

@@ -30,8 +30,8 @@
     visibility: hidden;
 }
 
-footer {
-    margin: auto;
+footer{
+    font-size: small;
     width: 100%;
     bottom: 0;
     position: fixed;

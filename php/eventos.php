@@ -3,11 +3,11 @@
 
 </head>
 <body>
-
-<?php include_once('../inserts/menu.php');?>
-<div class="container-fluid">
-<div class="row mt-1" style=" background-color: #5044567e;">
-
+<head>
+    <?php include_once('../inserts/menu.php');?>
+    <div class="container-fluid">
+    <div class="row mt-1" style=" background-color: #5044567e;">
+</head>
 
 <?php 
     $sql_select = "SELECT * FROM curso";
@@ -47,17 +47,8 @@
     }
     ?>
 
-
-
-    
-</div>
-   <!-- Inicio do Footer -->
-   <footer class="page-footer mt-1 font-small text-white-50 bg-dark" style="position:relative;">
-        <!-- Copyright -->
-        <div class="footer-copyright text-center py-3" style="background-color: #504456">PostEduc © 2020 - Todos os direitos reservados</div>
-        <!-- Copyright -->
+    <footer>
+        <?php include_once('../inserts/footer.php');?>
     </footer>
-    <!-- Fim do Footer -->
-
 </body>
 </html>

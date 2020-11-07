@@ -6,7 +6,7 @@ include_once('../inserts/head.php');
     <!--    <script src="./bootstrap-4.5.3-dist/js/bootstrap.min.js"></script> -->
         <link rel="stylesheet" href="../css/estilocadastro.css">
         <script src="../js/cadastrousuario.js"></script>
-    
+        <style> </style>  
         <title>PostEduc | Cadastro</title>
 
 
@@ -17,7 +17,7 @@ include_once('../inserts/head.php');
         
 
         <div class="container">
-            <div class="col-md-5 mx-auto jumbotron bg-second">
+            <div class="col-md-30 mx-auto jumbotron bg-second">
                 <h2>Seja Bem-vindo, Faça Aqui seu Cadastro</h2>
                 <hr>
 
