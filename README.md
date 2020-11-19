@@ -1,3 +1,3 @@
-## PostEduc
+<h1 align="center"> PostEduc </h1>
 
-Projeto desenvolvido pelo squad 8.
+
