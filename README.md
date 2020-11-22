@@ -6,7 +6,7 @@
 
 - [x] Definição de persona.
 - [x] Definição das cores e identidade visual.
-- [ ] Definição das fontes
+- [x] Definição das fontes
 - [x] Criação da base de dados de usuários e eventos.
 - [x] Criação da tela de Cadastro de Usuário
 - [x] Criação da tela de Login 
