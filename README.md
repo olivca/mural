@@ -18,7 +18,7 @@
 - [ ] Área de confirmação de presença do usuário no evento e feedback
 
 
-###Tecnologias:
+### Tecnologias:
 - Banco de Dados: Mysql;
 - linguagens: php, javascript;
 - Framework Bootstrap CDN, HTML e CSS.
