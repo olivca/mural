@@ -12,8 +12,17 @@
 - [x] Criação da tela de Login 
 - [x] Criação da tela de Cadastro de Eventos
 - [x] Criação da tela de apresentar Eventos
+- [ ] Refatoração do projeto com a biblioteca react
 - [ ] Melhorar estilização das páginas
 - [ ] Tomada de decisão do time para a curadoria dos eventos
 - [ ] Área de confirmação de presença do usuário no evento e feedback
+
+
+###Tecnologias:
+- Banco de Dados: Mysql;
+- linguagens: php, javascript;
+- Framework Bootstrap CDN, HTML e CSS.
+
+
 
 
